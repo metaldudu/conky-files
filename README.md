@@ -1,5 +1,7 @@
 # conky-files
 
-use fonts: fira code / ttyclock.ttf
+conky config files, use fonts: fira code / ttyclock.ttf , use jelly-conky 
 
-use jelly-conky
+display time / temperature / air quality
+
+![](snap.png?raw=true "snap")
